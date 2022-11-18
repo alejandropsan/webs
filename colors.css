@@ -1,0 +1,33 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.titulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: antiquewhite;
+    background-position: center;
+    text-align: center;
+}
+
+.container {
+    width: 600px;
+    height: 300px;
+    background-color: cornflowerblue;
+    background-position: center;
+    border-radius: 15px;
+}
+
+.info_tema {
+    text-align: center;
+    color: cornsilk;
+}
+
+.button_style {
+    padding: 10px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
